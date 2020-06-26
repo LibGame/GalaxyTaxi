@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 459c3913ef4b2ea429ea93a58d7711ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4294359870429457729
+    second: Gravity_0
+  - first:
+      213: 3922600683461114766
+    second: Gravity_1
+  - first:
+      213: 1731245572835697741
+    second: Gravity_2
+  - first:
+      213: 7832203168305213193
+    second: Gravity_3
+  - first:
+      213: 5341468775992942954
+    second: Gravity_4
+  - first:
+      213: 305603206762440745
+    second: Gravity_5
+  - first:
+      213: 8191671182726531979
+    second: Gravity_6
+  - first:
+      213: 7334164727842029136
+    second: Gravity_7
+  - first:
+      213: -4124574458525665827
+    second: Gravity_8
+  - first:
+      213: 838732799472109651
+    second: Gravity_9
+  - first:
+      213: 4175665576664972574
+    second: Gravity_10
+  - first:
+      213: -2471426543756586575
+    second: Gravity_11
+  - first:
+      213: 669454357774413683
+    second: Gravity_12
+  - first:
+      213: -1833977564503074114
+    second: Gravity_13
+  - first:
+      213: 2186050474529856891
+    second: Gravity_14
+  - first:
+      213: 7515514152621001309
+    second: Gravity_15
+  - first:
+      213: 4117256357859978618
+    second: Gravity_16
+  - first:
+      213: -4400057739309558073
+    second: Gravity_17
+  - first:
+      213: -8439868588087510080
+    second: Gravity_18
+  - first:
+      213: 6606102690719742841
+    second: Gravity_19
+  - first:
+      213: -932208875717363000
+    second: Gravity_20
+  - first:
+      213: -1872199833122028550
+    second: Gravity_21
+  - first:
+      213: -238837269899665262
+    second: Gravity_22
+  - first:
+      213: -6337932705203653764
+    second: Gravity_23
+  - first:
+      213: -4523496656633744353
+    second: Gravity_24
+  - first:
+      213: -3628627713506381705
+    second: Gravity_25
+  - first:
+      213: 3280854544551713688
+    second: Gravity_26
+  - first:
+      213: -4089802230428031540
+    second: Gravity_27
+  - first:
+      213: 383512614809897263
+    second: Gravity_28
+  - first:
+      213: 6114496122092364600
+    second: Gravity_29
+  - first:
+      213: 2486597544416261737
+    second: Gravity_30
+  - first:
+      213: 4292461345078527894
+    second: Gravity_31
+  - first:
+      213: -20345533466158390
+    second: Gravity_32
+  - first:
+      213: -8906650391440704299
+    second: Gravity_33
+  - first:
+      213: -8892638136304242075
+    second: Gravity_34
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gravity_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1492
+        width: 206
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55569f5c6979f3540a528e368d673c10
+      internalID: -4294359870429457729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1356
+        width: 599
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac4675e33bc6f744bfa15d9bed19313
+      internalID: 3922600683461114766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1132
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388983b57eb79404b8ac46b13ff5e1eb
+      internalID: 1731245572835697741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1129
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd36188bf70daa14e8ac19993657b5c5
+      internalID: 7832203168305213193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 979
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7667e4f5e19ab841945e5a8f0637479
+      internalID: 5341468775992942954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_5
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 979
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab49a3a82da36a4692832f609f44262
+      internalID: 305603206762440745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035687582c10984594471d104ecbdd8
+      internalID: 8191671182726531979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 664
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd10c32786b99c4483d0a1cf4c14142
+      internalID: 7334164727842029136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0e2705cffe4748a2437eee7c7a127
+      internalID: -4124574458525665827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41adf62ecb216d43937827cc313c937
+      internalID: 838732799472109651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 662
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268adeb3e941c3f40aedc58106c73455
+      internalID: 4175665576664972574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795b4fc57347c94aae8a5ca3a8d5fb0
+      internalID: -2471426543756586575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_12
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8cc344ecd3ff6478ede24fafaedbc4
+      internalID: 669454357774413683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 662
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54079c6b2031c84c9d75a803cfd77f5
+      internalID: -1833977564503074114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_14
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe2e6233a845a44a84419021b4c1e4b
+      internalID: 2186050474529856891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_15
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eaa7405900f8c4dba85a2b587f042b
+      internalID: 7515514152621001309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_16
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 664
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb03267c6fc6374eb2fba3d81e60f7d
+      internalID: 4117256357859978618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_17
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 685
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac412b9d1465f4887fb8ac7fd57abe
+      internalID: -4400057739309558073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f6578a2a5acc4478393941d967c899
+      internalID: -8439868588087510080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_19
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd07e46210d0b7409ee6303c189d073
+      internalID: 6606102690719742841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_20
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9fbf51cf5fce4e9a0614424eb4628
+      internalID: -932208875717363000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_21
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b8d7f5f9deed34f9f3f6630dddf7c9
+      internalID: -1872199833122028550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160051f9f1b85494c9ed4ef6f6ff9791
+      internalID: -238837269899665262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aafab0bd5c5f74e86dfe7e39d36c03
+      internalID: -6337932705203653764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_24
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f955f9a406d2d1f46b4ea24a11dc0b51
+      internalID: -4523496656633744353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_25
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 633
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1dd0b089f43b94b9e2134ebcd0615f
+      internalID: -3628627713506381705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 380
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e68d65bd6ada9438a75c6f913a703f
+      internalID: 3280854544551713688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 372
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ca625a6d4c6f43bf32a4f5aabf6f7
+      internalID: -4089802230428031540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 348
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c00b3aa3329c146aca65281572bf10
+      internalID: 383512614809897263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 323
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850b40a44e1cf8e42b34c9435a076015
+      internalID: 6114496122092364600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 35
+        width: 195
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac7c45d0566c64381e3ceccf3568e5
+      internalID: 2486597544416261737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 18
+        width: 234
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd64209287d01eb438e594c0750eebbc
+      internalID: 4292461345078527894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 281
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2c99264f30c54483d7c63cd4b9d38
+      internalID: -20345533466158390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 167
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b62b002ab1f894ba162cd5d435fc36
+      internalID: -8906650391440704299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gravity_34
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 40
+        width: 195
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c912fc1ef0334da764c8b1cd470fb
+      internalID: -8892638136304242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

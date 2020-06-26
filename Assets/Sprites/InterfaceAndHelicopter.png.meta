@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: e061aff4f8fc950478587c62e433e685
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5510783279149125234
+    second: InterfaceAndHelicopter_1
+  - first:
+      213: 7871420868692947967
+    second: InterfaceAndHelicopter_5
+  - first:
+      213: -5726389302667845102
+    second: InterfaceAndHelicopter_10
+  - first:
+      213: -4818458502081408564
+    second: InterfaceAndHelicopter_15
+  - first:
+      213: 2606441990294208794
+    second: InterfaceAndHelicopter_22
+  - first:
+      213: 7670667135273128453
+    second: InterfaceAndHelicopter_28
+  - first:
+      213: 7920654587111573329
+    second: InterfaceAndHelicopter_34
+  - first:
+      213: -4455406186270789349
+    second: InterfaceAndHelicopter_35
+  - first:
+      213: -4600445857272711220
+    second: InterfaceAndHelicopter_36
+  - first:
+      213: 5559684091174793881
+    second: InterfaceAndHelicopter_37
+  - first:
+      213: -7342135548023008030
+    second: InterfaceAndHelicopter_38
+  - first:
+      213: 2034288273582452378
+    second: InterfaceAndHelicopter_40
+  - first:
+      213: 8435895360056654170
+    second: InterfaceAndHelicopter_41
+  - first:
+      213: -3338253259266123045
+    second: InterfaceAndHelicopter_45
+  - first:
+      213: 9099312169075275192
+    second: InterfaceAndHelicopter_48
+  - first:
+      213: -7059021581995803423
+    second: InterfaceAndHelicopter_50
+  - first:
+      213: -1032525344411425906
+    second: InterfaceAndHelicopter_54
+  - first:
+      213: -3726320166911019235
+    second: InterfaceAndHelicopter_55
+  - first:
+      213: 8021938138742041304
+    second: InterfaceAndHelicopter_56
+  - first:
+      213: 4396792808807215930
+    second: InterfaceAndHelicopter_57
+  - first:
+      213: 4582745582285623878
+    second: InterfaceAndHelicopter_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1327
+        width: 39
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c19f3822ab4d45a540442349a9915
+      internalID: -5510783279149125234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 999
+        width: 372
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc402109606add4fbd50a0e2a1354ea
+      internalID: 7871420868692947967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 992
+        width: 170
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457de7da39d09c84d98217946c3052ea
+      internalID: -5726389302667845102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_15
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1145
+        width: 204
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f091c1cd209f144a3b165ed2928a4e
+      internalID: -4818458502081408564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 994
+        width: 57
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbeddd85a223714fa9c9227f1d33807
+      internalID: 2606441990294208794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_28
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1093
+        width: 127
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae50b19db8ce4b46b31822550a77bff
+      internalID: 7670667135273128453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 520
+        width: 158
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b46f09ee33547d459929ab89b7bbf03
+      internalID: 7920654587111573329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 879
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1aa79177593348b35a42934869383
+      internalID: -4455406186270789349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 862
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d51860c6325648831c86a5806b4f8
+      internalID: -4600445857272711220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_37
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 703
+        width: 148
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13334e659bfe04ea557d7f981f2c48
+      internalID: 5559684091174793881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_38
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 63
+        width: 204
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091a6f958e55f44fb02410060f047dc
+      internalID: -7342135548023008030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 745
+        width: 13
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4bcb9cc3c4464fba2ddabfe1aebce
+      internalID: 2034288273582452378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_41
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 744
+        width: 14
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58246bf0f78132a4bb4be4466e0343e9
+      internalID: 8435895360056654170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_45
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 664
+        width: 150
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c78bfea72e8d47aabfbe2a9be5ae0
+      internalID: -3338253259266123045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_48
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 693
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b8283fde1bf64d96f507b5a28abb6
+      internalID: 9099312169075275192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_50
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 686
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc21d6f1e853f045a4d68110a1cf654
+      internalID: -7059021581995803423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 88
+        width: 513
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea678046332e3048916382bb1ac0c0a
+      internalID: -1032525344411425906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_55
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 435
+        width: 150
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05becd65f57e0c40a5ff6784c97171e
+      internalID: -3726320166911019235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_56
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 467
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb30ad136f76e41988363ae9f5b343
+      internalID: 8021938138742041304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_57
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 201
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322442536b03570418ecb3d568b7227c
+      internalID: 4396792808807215930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InterfaceAndHelicopter_58
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 233
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c5dbff3bc6e94bb49361110a52554
+      internalID: 4582745582285623878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

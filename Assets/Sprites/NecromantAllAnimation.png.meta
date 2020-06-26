@@ -1,0 +1,1915 @@
+fileFormatVersion: 2
+guid: 4b8f04f741bf94a49bf9eba450cf5814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3138197305911018400
+    second: NecromantAllAnimation_0
+  - first:
+      213: -962963396971662023
+    second: NecromantAllAnimation_1
+  - first:
+      213: 7238157318929823210
+    second: NecromantAllAnimation_2
+  - first:
+      213: -535758441467978937
+    second: NecromantAllAnimation_3
+  - first:
+      213: 5590717281523699130
+    second: NecromantAllAnimation_4
+  - first:
+      213: 5271962538960580254
+    second: NecromantAllAnimation_5
+  - first:
+      213: -8119850630210733408
+    second: NecromantAllAnimation_6
+  - first:
+      213: 5129779443587165262
+    second: NecromantAllAnimation_7
+  - first:
+      213: 6218836000138052295
+    second: NecromantAllAnimation_8
+  - first:
+      213: -3028234995015811924
+    second: NecromantAllAnimation_9
+  - first:
+      213: 398806906273959539
+    second: NecromantAllAnimation_10
+  - first:
+      213: 7074697979098239490
+    second: NecromantAllAnimation_11
+  - first:
+      213: -7340683030345020874
+    second: NecromantAllAnimation_12
+  - first:
+      213: -6720843582389096521
+    second: NecromantAllAnimation_13
+  - first:
+      213: -9137536820307289714
+    second: NecromantAllAnimation_14
+  - first:
+      213: 2848459768567191823
+    second: NecromantAllAnimation_15
+  - first:
+      213: -5311360223038201363
+    second: NecromantAllAnimation_16
+  - first:
+      213: 2177469700450678514
+    second: NecromantAllAnimation_17
+  - first:
+      213: -3476712725724617011
+    second: NecromantAllAnimation_18
+  - first:
+      213: -8213703256634889793
+    second: NecromantAllAnimation_19
+  - first:
+      213: -7014903462005073079
+    second: NecromantAllAnimation_20
+  - first:
+      213: 1343204286426421593
+    second: NecromantAllAnimation_21
+  - first:
+      213: 15520629815520882
+    second: NecromantAllAnimation_22
+  - first:
+      213: 8053427769844466233
+    second: NecromantAllAnimation_23
+  - first:
+      213: -2608371113699257817
+    second: NecromantAllAnimation_24
+  - first:
+      213: 8792962039033586917
+    second: NecromantAllAnimation_25
+  - first:
+      213: 7093255913465018448
+    second: NecromantAllAnimation_26
+  - first:
+      213: 3707607845420992936
+    second: NecromantAllAnimation_27
+  - first:
+      213: 9089172484477940870
+    second: NecromantAllAnimation_28
+  - first:
+      213: 6644398713231700783
+    second: NecromantAllAnimation_29
+  - first:
+      213: -1872860409434793118
+    second: NecromantAllAnimation_30
+  - first:
+      213: 5929858256885094460
+    second: NecromantAllAnimation_31
+  - first:
+      213: -889630106029309359
+    second: NecromantAllAnimation_32
+  - first:
+      213: -1828111430764590434
+    second: NecromantAllAnimation_33
+  - first:
+      213: -6168739048807525069
+    second: NecromantAllAnimation_34
+  - first:
+      213: 166791898047847048
+    second: NecromantAllAnimation_35
+  - first:
+      213: -4569083747602230263
+    second: NecromantAllAnimation_36
+  - first:
+      213: -5887927832068664852
+    second: NecromantAllAnimation_37
+  - first:
+      213: -961504255148051129
+    second: NecromantAllAnimation_38
+  - first:
+      213: 941605990348910091
+    second: NecromantAllAnimation_39
+  - first:
+      213: 946645384522093410
+    second: NecromantAllAnimation_40
+  - first:
+      213: -6242978434056481439
+    second: NecromantAllAnimation_41
+  - first:
+      213: 4289925484079425385
+    second: NecromantAllAnimation_42
+  - first:
+      213: 1275331766930275338
+    second: NecromantAllAnimation_43
+  - first:
+      213: -8786735294213364160
+    second: NecromantAllAnimation_44
+  - first:
+      213: 5352383970178382447
+    second: NecromantAllAnimation_45
+  - first:
+      213: -979617086762595762
+    second: NecromantAllAnimation_46
+  - first:
+      213: 7585951716852238974
+    second: NecromantAllAnimation_47
+  - first:
+      213: -7286050628289619530
+    second: NecromantAllAnimation_48
+  - first:
+      213: -6121080859106292940
+    second: NecromantAllAnimation_49
+  - first:
+      213: -1623362968942229896
+    second: NecromantAllAnimation_50
+  - first:
+      213: 5166220782110186986
+    second: NecromantAllAnimation_51
+  - first:
+      213: 9151190816869499138
+    second: NecromantAllAnimation_52
+  - first:
+      213: -8088042728334980711
+    second: NecromantAllAnimation_53
+  - first:
+      213: -9212052989280809433
+    second: NecromantAllAnimation_54
+  - first:
+      213: 1919641390201597469
+    second: NecromantAllAnimation_55
+  - first:
+      213: -1750053506752414342
+    second: NecromantAllAnimation_56
+  - first:
+      213: -5908734287464700880
+    second: NecromantAllAnimation_57
+  - first:
+      213: -2030724426241705756
+    second: NecromantAllAnimation_58
+  - first:
+      213: -1023048524728641278
+    second: NecromantAllAnimation_59
+  - first:
+      213: 8916018328988898352
+    second: NecromantAllAnimation_60
+  - first:
+      213: 4262439700780234842
+    second: NecromantAllAnimation_61
+  - first:
+      213: 4401929243613281354
+    second: NecromantAllAnimation_62
+  - first:
+      213: -747345583479107631
+    second: NecromantAllAnimation_63
+  - first:
+      213: 3154330376560953906
+    second: NecromantAllAnimation_64
+  - first:
+      213: -3437366965656474643
+    second: NecromantAllAnimation_65
+  - first:
+      213: 8981600731915821139
+    second: NecromantAllAnimation_66
+  - first:
+      213: -8867409569255406783
+    second: NecromantAllAnimation_67
+  - first:
+      213: 3324346396451801002
+    second: NecromantAllAnimation_68
+  - first:
+      213: 3351010743466892128
+    second: NecromantAllAnimation_69
+  - first:
+      213: -4352959036517419175
+    second: NecromantAllAnimation_70
+  - first:
+      213: -1433397721457036615
+    second: NecromantAllAnimation_71
+  - first:
+      213: -4433092612013352139
+    second: NecromantAllAnimation_72
+  - first:
+      213: 305309186323142401
+    second: NecromantAllAnimation_73
+  - first:
+      213: -6600462145613685403
+    second: NecromantAllAnimation_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NecromantAllAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 6386
+        width: 1089
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81add675eee55840b24bbb2137f8d6c
+      internalID: -3138197305911018400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 6143
+        width: 397
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006805274387c4641be40993df3a36a5
+      internalID: -962963396971662023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 6368
+        width: 397
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f49440a1ea1794b994f77ee7dd715f
+      internalID: 7238157318929823210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5612
+        width: 301
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c879fcbb7ac8da43a4c4ed9d9ca6815
+      internalID: -535758441467978937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 5578
+        width: 346
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd83f2ffaa7024a83c3a9cfa66c576
+      internalID: 5590717281523699130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 6091
+        width: 397
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47e8cf2e21f1e439515a93fb15b69c
+      internalID: 5271962538960580254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 5578
+        width: 349
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee7daf991d2c14994173fe2dc22d2a
+      internalID: -8119850630210733408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 5609
+        width: 397
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0cbc32d5b4a54cb7ecc0d9aa70e59
+      internalID: 5129779443587165262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 5650
+        width: 397
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4e3ee55f8b2954fb3cb33d69ef82e5
+      internalID: 6218836000138052295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 5835
+        width: 397
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c153cc2e56c744beca8c34e834268
+      internalID: -3028234995015811924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 5184
+        width: 397
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddbc976187c5949bd678e20cbc4d8e
+      internalID: 398806906273959539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 5575
+        width: 397
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3e2dc302e99449a8ec324e526efe6
+      internalID: 7074697979098239490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4986
+        width: 369
+        height: 517
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5377431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80459adb933f704c81a60a84123226e
+      internalID: -7340683030345020874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4986
+        width: 366
+        height: 517
+      alignment: 9
+      pivot: {x: 0.53998536, y: 0.5377431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228074f6d6123ec41bace8480fcce0b4
+      internalID: -6720843582389096521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 4986
+        width: 452
+        height: 520
+      alignment: 9
+      pivot: {x: 0.44603816, y: 0.52814376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94179c70f989f28428588d7fd75bdb5e
+      internalID: -9137536820307289714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 4983
+        width: 448
+        height: 513
+      alignment: 9
+      pivot: {x: 0.41289002, y: 0.5380374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca444181f458ec4e84a3e40e0ae2b63
+      internalID: 2848459768567191823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 4986
+        width: 386
+        height: 476
+      alignment: 9
+      pivot: {x: 0.5126384, y: 0.500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890b2e91d362d849b34c5cc5b53d73d
+      internalID: -5311360223038201363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 4986
+        width: 383
+        height: 506
+      alignment: 9
+      pivot: {x: 0.55094826, y: 0.54820377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031e9a2a84ff604f9cef0f40547c890
+      internalID: 2177469700450678514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 5018
+        width: 302
+        height: 500
+      alignment: 9
+      pivot: {x: 0.48384953, y: 0.5390264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd968e8bc1cdb944e855c72e854c8c94
+      internalID: -3476712725724617011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 5003
+        width: 302
+        height: 503
+      alignment: 9
+      pivot: {x: 0.46769503, y: 0.5484913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74932c825de7e7c47aea408475a224c7
+      internalID: -8213703256634889793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 4398
+        y: 5157
+        width: 394
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c45f37a7cbd554288296a8c3439ebd
+      internalID: -7014903462005073079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 5301
+        width: 397
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f36906d7042c64fac68d8319d2d0d6
+      internalID: 1343204286426421593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 4743
+        width: 366
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ca4d2762113f4ab775e704a182e34
+      internalID: 15520629815520882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 4716
+        width: 397
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f7b748db512664299b0963fb59e28d
+      internalID: 8053427769844466233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 5470
+        y: 5051
+        width: 397
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ae57a8be37284dbeae80d7f8216e3
+      internalID: -2608371113699257817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4408
+        width: 384
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5127036, y: 0.5208469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7d2d7a7d644443ac602db60a4b28f
+      internalID: 8792962039033586917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4408
+        width: 384
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a133ea94290f40a8b45507f21f877
+      internalID: 7093255913465018448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 4408
+        width: 383
+        height: 468
+      alignment: 9
+      pivot: {x: 0.53821087, y: 0.5208469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9860cb5f9bcf84caaa0007bdd9bfab
+      internalID: 3707607845420992936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 4408
+        width: 387
+        height: 506
+      alignment: 9
+      pivot: {x: 0.5126054, y: 0.54820377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c93223e5e9dbf41a04bf5f654dd786
+      internalID: 9089172484477940870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 4411
+        width: 298
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce785d94da56f4e49b3a23b325baa90e
+      internalID: 6644398713231700783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 4408
+        width: 301
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aaa841dafed3e47a8eaeab58d0feb0
+      internalID: -1872860409434793118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 4408
+        width: 301
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c805eb2327e5b2468aafed61ee90298
+      internalID: 5929858256885094460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 4394
+        width: 350
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14679550c5ce3749a823e6967d88f7d
+      internalID: -889630106029309359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 4394
+        width: 346
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f03c5c72a282e4087906dc6e36686d
+      internalID: -1828111430764590434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 5487
+        y: 4818
+        width: 363
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5603bd9d8e1804a9a579963a28f084
+      internalID: -6168739048807525069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4736
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c22119e745b64788e4384ef5358b8
+      internalID: 166791898047847048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3867
+        width: 301
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b32a6c73e909479e25efe911b6214
+      internalID: -4569083747602230263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3833
+        width: 346
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6441fe57f95fa4c86a81d32acd6701
+      internalID: -5887927832068664852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3833
+        width: 349
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91276328263f4d489c44b637ba269ca
+      internalID: -961504255148051129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 2402
+        width: 2960
+        height: 1982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528fe04384233241932cae5e49b2a94
+      internalID: 941605990348910091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3241
+        width: 369
+        height: 520
+      alignment: 9
+      pivot: {x: 0.51298594, y: 0.53686005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f78be50febe844296b2fab4cbf5fb4
+      internalID: 946645384522093410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3241
+        width: 359
+        height: 516
+      alignment: 9
+      pivot: {x: 0.5133475, y: 0.5185727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff535be9945254daa2b714a8a6fba9
+      internalID: -6242978434056481439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 3241
+        width: 448
+        height: 520
+      alignment: 9
+      pivot: {x: 0.42512783, y: 0.5368596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4e398d75ddb148a684b772f12974a
+      internalID: 4289925484079425385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3236
+        width: 448
+        height: 510
+      alignment: 9
+      pivot: {x: 0.413702, y: 0.55735725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71185b88c44f8744eb29b1466a89221a
+      internalID: 1275331766930275338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 3241
+        width: 386
+        height: 472
+      alignment: 9
+      pivot: {x: 0.54965603, y: 0.520304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b3a73e6072404d9b2c5c639f01125
+      internalID: -8786735294213364160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 3241
+        width: 383
+        height: 506
+      alignment: 9
+      pivot: {x: 0.53753394, y: 0.54734975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b01fa19ab03344a18cc6baf9b7c3d
+      internalID: 5352383970178382447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 3258
+        width: 302
+        height: 499
+      alignment: 9
+      pivot: {x: 0.48413247, y: 0.548014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a0db8ed0e953941a6b05e02db13b82
+      internalID: -979617086762595762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 3258
+        width: 302
+        height: 503
+      alignment: 9
+      pivot: {x: 0.48413247, y: 0.54763216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54f66860ba967040a63a6d082588e86
+      internalID: 7585951716852238974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2998
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950d37636d277840831281ca79d3e95
+      internalID: -7286050628289619530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2655
+        width: 384
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54036963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a29c857ba86b43972a20cffa907b0
+      internalID: -6121080859106292940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2662
+        width: 384
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5197223, y: 0.5161476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7f054beab580c47a0aa94ed5ab36a1
+      internalID: -1623362968942229896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 2662
+        width: 383
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5296605, y: 0.5161476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61df1f9076404d047b29f0869f358524
+      internalID: 5166220782110186986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2662
+        width: 387
+        height: 507
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5653483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dda4846ec3f4a4a9abe06d868a7ca7
+      internalID: 9151190816869499138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 2666
+        width: 298
+        height: 503
+      alignment: 9
+      pivot: {x: 0.42588037, y: 0.5548899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94906c5b27d65f641912ce53659e7fac
+      internalID: -8088042728334980711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 2673
+        width: 301
+        height: 507
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52178293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211264219a502ef4584b3a3a4eb7629e
+      internalID: -9212052989280809433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2662
+        width: 301
+        height: 507
+      alignment: 9
+      pivot: {x: 0.44496372, y: 0.55445683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60557a188263b3b41a8977d70c59d698
+      internalID: 1919641390201597469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2649
+        width: 346
+        height: 520
+      alignment: 9
+      pivot: {x: 0.48404053, y: 0.48938084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6501e8a8d5d842aeb5f0cdaccdb4b
+      internalID: -1750053506752414342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 2649
+        width: 356
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcef4966da4063747ab627b6def509dc
+      internalID: -5908734287464700880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1752
+        width: 305
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8103447107e13246ad71cafac544d24
+      internalID: -2030724426241705756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1769
+        width: 284
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2002954c6da53f41ab87d8736709cce
+      internalID: -1023048524728641278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1766
+        width: 267
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe4843fb4a9135458df466e41cd74d8
+      internalID: 8916018328988898352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1769
+        width: 232
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ab59ec670f2940b470d2116873e63
+      internalID: 4262439700780234842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1769
+        width: 226
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfafb14adeefc44bb66771da453190
+      internalID: 4401929243613281354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1769
+        width: 195
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f64c85006ea9b48aa2e0001464bd8b
+      internalID: -747345583479107631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_64
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1821
+        width: 126
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e19fc3457e9b842ac82993bb1f630b
+      internalID: 3154330376560953906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1879
+        width: 82
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445001a78f626194296cceb8c3b69906
+      internalID: -3437366965656474643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1961
+        width: 34
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8244e8c0d3a38418c6ade9b95b3254
+      internalID: 8981600731915821139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1961
+        width: 38
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31038e55c63867240af63dec5ae8395f
+      internalID: -8867409569255406783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1968
+        width: 34
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf2bb2aac8f85044bcbf0f57fdf75db
+      internalID: 3324346396451801002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 1995
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67bcaa8e2ba414d8ed9c348b978f45
+      internalID: 3351010743466892128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 1971
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98968d7e94a3b2c45bb9c21e92ad41dd
+      internalID: -4352959036517419175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1971
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798faa77ea97e34aa090b808b1a445c
+      internalID: -1433397721457036615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 1975
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c759352f7879e1e40a19d4597bd0d8ca
+      internalID: -4433092612013352139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 1971
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d283cf1c56bae5f4e8c5fd15f480d6af
+      internalID: 305309186323142401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecromantAllAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1978
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23793e48f60f7f440997a863bf5d8653
+      internalID: -6600462145613685403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

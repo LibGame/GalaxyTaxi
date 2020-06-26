@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 3ef99fb272c670342a683ac99ea57ebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3308716365571819765
+    second: FamiliarAnimation_2
+  - first:
+      213: 4760846863459082480
+    second: FamiliarAnimation_3
+  - first:
+      213: -7899301208960027694
+    second: FamiliarAnimation_4
+  - first:
+      213: -534756348431294044
+    second: FamiliarAnimation_5
+  - first:
+      213: -3699059172369142613
+    second: FamiliarAnimation_6
+  - first:
+      213: -2797353490007210549
+    second: FamiliarAnimation_7
+  - first:
+      213: 2912996279669185808
+    second: FamiliarAnimation_8
+  - first:
+      213: -7703558754715166060
+    second: FamiliarAnimation_9
+  - first:
+      213: 1512207461867738662
+    second: FamiliarAnimation_10
+  - first:
+      213: 6989983506089994700
+    second: FamiliarAnimation_11
+  - first:
+      213: -3998667398912019076
+    second: FamiliarAnimation_12
+  - first:
+      213: -5405486012534972731
+    second: FamiliarAnimation_14
+  - first:
+      213: -3214845466564137286
+    second: FamiliarAnimation_16
+  - first:
+      213: -2789910879883599231
+    second: FamiliarAnimation_17
+  - first:
+      213: 3210968322682417777
+    second: FamiliarAnimation_18
+  - first:
+      213: 2956982406247747924
+    second: FamiliarAnimation_19
+  - first:
+      213: 8418969829045919950
+    second: FamiliarAnimation_20
+  - first:
+      213: -6690019941606847344
+    second: FamiliarAnimation_21
+  - first:
+      213: -2185334553401798706
+    second: FamiliarAnimation_22
+  - first:
+      213: -5236884806712550306
+    second: FamiliarAnimation_23
+  - first:
+      213: 1588103799205917858
+    second: FamiliarAnimation_24
+  - first:
+      213: -3092374357402665418
+    second: FamiliarAnimation_27
+  - first:
+      213: -5685968577288590586
+    second: FamiliarAnimation_28
+  - first:
+      213: 3770295906964152104
+    second: FamiliarAnimation_29
+  - first:
+      213: -1101788611659374494
+    second: FamiliarAnimation_30
+  - first:
+      213: 7005026539515857131
+    second: FamiliarAnimation_31
+  - first:
+      213: 4368888127749550975
+    second: FamiliarAnimation_32
+  - first:
+      213: -967932163924828878
+    second: FamiliarAnimation_33
+  - first:
+      213: -1662846712268160704
+    second: FamiliarAnimation_34
+  - first:
+      213: -916628067270497994
+    second: FamiliarAnimation_35
+  - first:
+      213: 1178637064061755247
+    second: FamiliarAnimation_36
+  - first:
+      213: -1339066245437733593
+    second: FamiliarAnimation_37
+  - first:
+      213: 8824455177662464915
+    second: FamiliarAnimation_38
+  - first:
+      213: -101455578723161115
+    second: FamiliarAnimation_39
+  - first:
+      213: 4225612368239973038
+    second: FamiliarAnimation_40
+  - first:
+      213: -7856470992097008594
+    second: FamiliarAnimation_41
+  - first:
+      213: 837285446931341682
+    second: FamiliarAnimation_42
+  - first:
+      213: -5319945113659604198
+    second: FamiliarAnimation_45
+  - first:
+      213: -9136508460574095947
+    second: FamiliarAnimation_46
+  - first:
+      213: -7342447497065948349
+    second: FamiliarAnimation_49
+  - first:
+      213: -3245042985605463366
+    second: FamiliarAnimation_50
+  - first:
+      213: 928866240005219209
+    second: FamiliarAnimation_52
+  - first:
+      213: 6253676960966573283
+    second: FamiliarAnimation_53
+  - first:
+      213: 1487850784070031987
+    second: FamiliarAnimation_55
+  - first:
+      213: -2343774480882174176
+    second: FamiliarAnimation_56
+  - first:
+      213: -2195597822753923107
+    second: FamiliarAnimation_58
+  - first:
+      213: -1563519207046609744
+    second: FamiliarAnimation_0
+  - first:
+      213: -4491652403371509971
+    second: FamiliarAnimation_1
+  - first:
+      213: 394308234301974896
+    second: FamiliarAnimation_13
+  - first:
+      213: 2295394809410227415
+    second: FamiliarAnimation_15
+  - first:
+      213: -5335877988268093047
+    second: FamiliarAnimation_25
+  - first:
+      213: -1881888904875422390
+    second: FamiliarAnimation_26
+  - first:
+      213: 3320174794054589080
+    second: FamiliarAnimation_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FamiliarAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 6392
+        width: 105
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00d98fe2a0108418c960404892dfd7
+      internalID: 3308716365571819765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 7111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c07d887697033d43a508eb5fa668b6a
+      internalID: 4760846863459082480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6653
+        width: 418
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc271460f85d80b48888712d5dcc6f7c
+      internalID: -7899301208960027694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 6196
+        width: 447
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec2932ad06dd24c954475b41835c16
+      internalID: -534756348431294044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 6472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81db10ec9882f64fac2108a7321e3cc
+      internalID: -3699059172369142613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 6337
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b5c2e5b02ce24e922bab11c6c692d
+      internalID: -2797353490007210549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 6472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa5d28d4ff8532469fbf9448a972b2b
+      internalID: 2912996279669185808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 6097
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8372fc039301b42a553a06d24ea866
+      internalID: -7703558754715166060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 5963
+        width: 160
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b52d3d7d2bc24290f2bf6c3eb5996
+      internalID: 1512207461867738662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 6097
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439681425e0dcc0488a4843725bd5680
+      internalID: 6989983506089994700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 5545
+        width: 128
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e91089c73e0d42bcd9ff2dce47b0a
+      internalID: -3998667398912019076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5691
+        width: 447
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b3b2a11c540f459826df704837783
+      internalID: -5405486012534972731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 5636
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45257b7126d11469a28ab5803bac0e
+      internalID: -3214845466564137286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 5502
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b99ae9df06925a45930e03bef4a9573
+      internalID: -2789910879883599231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 5640
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b38f7791b869e4dbdac3cd81e87579
+      internalID: 3210968322682417777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 5156
+        width: 447
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08bf09633b1d07498fbec72725b483a
+      internalID: 2956982406247747924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 5262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8c6c71bd6c2b4bbca05c2c6c498cd
+      internalID: 8418969829045919950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 5127
+        width: 160
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc718af787d72c94c913ba322052fa72
+      internalID: -6690019941606847344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 5262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e91f7a7d1c44e48b97cdfcb624187c
+      internalID: -2185334553401798706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4738
+        width: 393
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11a0adf0a96f64da24f7d135fa9cd2
+      internalID: -5236884806712550306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 4393
+        width: 112
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152fef6f694d18488e7f00749355093
+      internalID: 1588103799205917858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6912b739cc77d984bbcf1ac374cf31a7
+      internalID: -3092374357402665418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 4644
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a4e7f28e98ac459d7a10f2f10c028
+      internalID: -5685968577288590586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 4778
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a262a6aee9456840a7fbefd0841a24c
+      internalID: 3770295906964152104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4252
+        width: 440
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc6d1bb472209438935e9c7bf897d7
+      internalID: -1101788611659374494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4404
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54054717175cbd4382fbb52cd9ff569
+      internalID: 7005026539515857131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 4266
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff209bb01e9caa24d909c648ec4177fc
+      internalID: 4368888127749550975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 4404
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93590d86a13fb504d83dfd424fee5190
+      internalID: -967932163924828878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3663
+        width: 429
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e48f3520ed9c0a46a7d0d96940e21f9
+      internalID: -1662846712268160704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 3943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1072f5a77c61d46945b476464e0f00
+      internalID: -916628067270497994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3808
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079eb3b549f364843bed681e6999c707
+      internalID: 1178637064061755247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab7a91aa9b74b44a0fd8f9b795c955
+      internalID: -1339066245437733593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3292
+        width: 123
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb153aa601a3a94e91c151e5861a745
+      internalID: 8824455177662464915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3045
+        width: 472
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a1659d5632bef4f944ef06384f2c53
+      internalID: -101455578723161115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 3568
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52d90127ddbec48bab900de9dd8bd6
+      internalID: 4225612368239973038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3434
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ad1c179e333c40ae0ca8723b1985e
+      internalID: -7856470992097008594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3568
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbcd1a12b205342ae506d95a989901
+      internalID: 837285446931341682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2453
+        width: 447
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105aac38c5c43fb43aae8ac9993d75ff
+      internalID: -5319945113659604198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2267
+        width: 142
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54f7b28ea9c6b4c8b5dfac66de07b2
+      internalID: -9136508460574095947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1773
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fec55bcc9f665143ba78d7ab38a5187
+      internalID: -7342447497065948349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1552
+        width: 145
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4d15094cc5ab4d8e9595bfd6d89df
+      internalID: -3245042985605463366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1134
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bee4efe41e9b447838e39c2831b79f
+      internalID: 928866240005219209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 847
+        width: 182
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e5fc8cce3039499946ca845626037
+      internalID: 6253676960966573283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 621
+        width: 556
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273a294115018bd4e9b5410aca8020cb
+      internalID: 1487850784070031987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 36
+        width: 437
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135b4995106d8240bfc4f134f3236ea
+      internalID: -2343774480882174176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 600
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb0a5bab7758c4c853685110949e29
+      internalID: -2195597822753923107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 204
+        width: 812
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a899ee39590bd4ba4ee0c997819e12
+      internalID: -1563519207046609744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1119
+        width: 796
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bcfc045e736084a9f89600dc8c7e4c
+      internalID: -4491652403371509971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2090
+        width: 753
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e8e52e25415840a22cbe87cbbfbb4
+      internalID: 394308234301974896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3245
+        width: 752
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ada4000316374c80c09a078ce3a58
+      internalID: 2295394809410227415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 4256
+        width: 542
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91fb8894c574314ca401c67c3d9cba4
+      internalID: -5335877988268093047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 5434
+        width: 649
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9506a9ac603cd47b6722de2e74c82b
+      internalID: -1881888904875422390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamiliarAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 6584
+        width: 494
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff223afc0ee3e5a46a0503690e750088
+      internalID: 3320174794054589080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

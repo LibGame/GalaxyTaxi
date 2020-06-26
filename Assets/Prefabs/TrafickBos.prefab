@@ -1,0 +1,254 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2997305389374410344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2997305389374410346}
+  - component: {fileID: 2997305389374410345}
+  m_Layer: 0
+  m_Name: HitPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2997305389374410346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305389374410344}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.1984813, y: 1.341527, z: 17.376883}
+  m_LocalScale: {x: 0.5321641, y: 0.639902, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2997305390162497167}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2997305389374410345
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305389374410344}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 9009143983455310513, guid: 6f87d9e8ed6b25a4386bfa5987806393,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 5.56, y: 0.68}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &2997305389866284057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2997305389866284060}
+  - component: {fileID: 2997305389866284059}
+  - component: {fileID: 2997305389866284058}
+  m_Layer: 0
+  m_Name: TraficLights
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2997305389866284060
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305389866284057}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.2434814, y: 1.716527, z: 17.376883}
+  m_LocalScale: {x: 0.5310262, y: 0.531629, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2997305390162497167}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2997305389866284059
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305389866284057}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+  m_Sprite: {fileID: 8003505292908574742, guid: 6f87d9e8ed6b25a4386bfa5987806393,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.64, y: 0.64}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &2997305389866284058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305389866284057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20fcd67e6fa6b414fad9f9636ee477a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TrafickLightsXP: {fileID: 2997305389374410344}
+  isDegresseXp: 0
+  timeToStart: 1
+  AllBos: {fileID: 2997305390162497166}
+  point:
+  - {fileID: 3266206858351185729, guid: b81a4fdb03016a047a224f90eeb10893, type: 3}
+  - {fileID: 5249383021154096633, guid: f5da93398325c80469b7679a0f9998d2, type: 3}
+  - {fileID: 5857013088045446455, guid: c70023c82e8046c4c8985f078fb105de, type: 3}
+  - {fileID: 2777380524060390824, guid: f081d8d138dcefb4a9f939a1c8f1b336, type: 3}
+  - {fileID: 1352762912294914472, guid: 3d0ecfd8eccac244691c3f7cd7122a3f, type: 3}
+  - {fileID: 6953135418250952791, guid: 732cd18fd09d7594b9e0e382734c0016, type: 3}
+  LevelAtack: 1
+  amountOfPoint: 4
+  TimeToDestroyAllPoints: 6
+  amountAtack: 10
+  amountNowAtack: 0
+  rightPoints:
+  - {fileID: 1869729937083257389, guid: 3141a2c26a445084ab2a0d02d3a32eb0, type: 3}
+  - {fileID: 7899045702151069567, guid: de3704393d6351c41849e7fe36dac6f2, type: 3}
+  - {fileID: 2086152979987682171, guid: f73406c4b684afe49a0e3e3edbfc0c52, type: 3}
+  - {fileID: 3561613452659979619, guid: 83ffa71f30755b645ab0a2825c22ffff, type: 3}
+  - {fileID: 5978701053028960991, guid: 928121660ac277149b6a24faea6fdbce, type: 3}
+  - {fileID: 6865523122629675569, guid: 49ec880d14fd49c44b26dfa101d7f683, type: 3}
+  - {fileID: 2896264214892432430, guid: 33178c6f0365e7744bbed260470b554e, type: 3}
+  - {fileID: 7684093323961860484, guid: 1d1980b798b62c346b5b9606236f084e, type: 3}
+  - {fileID: 6366531056332078766, guid: b49fc8d8cff7dee499843a47bf9ef3ed, type: 3}
+  - {fileID: 906543864071814949, guid: f7a32b988bd510547973e359f91cf394, type: 3}
+  - {fileID: 8634726511926092596, guid: 984664a728247494e90e293200b1a6d7, type: 3}
+  wrongPoints:
+  - {fileID: 1132709456103414916, guid: 61525bb25652b204aa19565dfbd607d3, type: 3}
+  - {fileID: 612961813597016216, guid: 1f4ab72b1c41c0440b2b25d246cc7df6, type: 3}
+  - {fileID: 897445240111860020, guid: 22f6ffbdfb67cda4f8b383f460502e42, type: 3}
+  - {fileID: 2101760276869700792, guid: e05caacf53b9c464cb0d82890a1adc13, type: 3}
+  - {fileID: 8596160544624561824, guid: 02af248fed9ad6e4a8b0ff4f04ced826, type: 3}
+  - {fileID: 9134665477065963047, guid: 50e4abe080931c143b3f483b6900a1d1, type: 3}
+  - {fileID: 6536194981424559331, guid: b47720c818f4e6649b7a450bb5eedd52, type: 3}
+  - {fileID: 1493760860978892009, guid: 14000a9ce26c9d04ab820d42e410094b, type: 3}
+  - {fileID: 6687570296873530871, guid: 47538bfbba86a2c40884a313c4afb3bb, type: 3}
+  - {fileID: 8889875389159667940, guid: a732100a6924ec1408b87e6f3c31ebf4, type: 3}
+  - {fileID: 7978258444242950168, guid: 23528f4b7667f2143a0b510ea2379744, type: 3}
+  - {fileID: 1373605212129486789, guid: 33ed74c025e9c6548909dd3f7e793d7a, type: 3}
+  CarDownsRigidBody:
+  - {fileID: 6011120559582679079, guid: fba753fc6d8bc0d4b893ebcbdd912657, type: 3}
+  IncasatorCar: {fileID: 4935762005428872455, guid: e493dad986b9146469bad57181136656,
+    type: 3}
+--- !u!1 &2997305390162497166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2997305390162497167}
+  m_Layer: 0
+  m_Name: TrafickBos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2997305390162497167
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2997305390162497166}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.2544813, y: 6.36, z: -17.376883}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2997305389374410346}
+  - {fileID: 2997305389866284060}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

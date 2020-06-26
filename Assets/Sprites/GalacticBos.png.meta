@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 8e74c9de433e0de4bbc51086df0e65ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8034304732416469384
+    second: GalacticBos_0
+  - first:
+      213: 2855384487851496961
+    second: GalacticBos_1
+  - first:
+      213: -7528008056036510151
+    second: GalacticBos_2
+  - first:
+      213: -948543977731222994
+    second: GalacticBos_4
+  - first:
+      213: -5144960593285638196
+    second: GalacticBos_8
+  - first:
+      213: -9084054401583373380
+    second: GalacticBos_9
+  - first:
+      213: -3070792951433212814
+    second: GalacticBos_10
+  - first:
+      213: -6121569836605673187
+    second: GalacticBos_11
+  - first:
+      213: 803676112618339645
+    second: GalacticBos_12
+  - first:
+      213: 58469536973515831
+    second: GalacticBos_13
+  - first:
+      213: -8576590148788324666
+    second: GalacticBos_14
+  - first:
+      213: -4813494644221343447
+    second: GalacticBos_15
+  - first:
+      213: 1973825409981235630
+    second: GalacticBos_21
+  - first:
+      213: 5796206743134553040
+    second: GalacticBos_22
+  - first:
+      213: -8281754734408378273
+    second: GalacticBos_23
+  - first:
+      213: -494467192790150099
+    second: GalacticBos_24
+  - first:
+      213: -6350887892109490782
+    second: GalacticBos_25
+  - first:
+      213: 7373384573490256040
+    second: GalacticBos_26
+  - first:
+      213: 2812520322896716177
+    second: GalacticBos_27
+  - first:
+      213: 1327755105305241334
+    second: GalacticBos_28
+  - first:
+      213: -1123637207606178194
+    second: GalacticBos_29
+  - first:
+      213: -8254497934219152633
+    second: GalacticBos_30
+  - first:
+      213: 2849626120545194459
+    second: GalacticBos_31
+  - first:
+      213: -4962068469294828039
+    second: GalacticBos_32
+  - first:
+      213: -8440017205246539847
+    second: GalacticBos_33
+  - first:
+      213: 6110530207668312271
+    second: GalacticBos_34
+  - first:
+      213: 8627669635702857347
+    second: GalacticBos_35
+  - first:
+      213: 2658655764838624450
+    second: GalacticBos_36
+  - first:
+      213: -4178176194842487055
+    second: GalacticBos_37
+  - first:
+      213: 5979538302164092478
+    second: GalacticBos_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GalacticBos_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 4007
+        width: 2150
+        height: 1756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6f28a53046a874e8e4e11674a49345
+      internalID: 8034304732416469384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_1
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 5740
+        width: 9
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600450bc644879408081f335b709061
+      internalID: 2855384487851496961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2930
+        width: 715
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b3f343afe76e4599fa98ea367a391
+      internalID: -7528008056036510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_4
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3130
+        width: 415
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f034dbb022a05af4c98661dcf9c27eeb
+      internalID: -948543977731222994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_8
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2604
+        width: 100
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f344b355ce0084fb7476e07b784059
+      internalID: -5144960593285638196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_9
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2586
+        width: 106
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe2c68f908653a41a92c925cc76a15d
+      internalID: -9084054401583373380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_10
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2348
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb1bfdc4b417c348a2e4a63bfcc8574
+      internalID: -3070792951433212814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_11
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2239
+        width: 277
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa54b43181549444b06072c1f1e502a
+      internalID: -6121569836605673187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1571
+        width: 715
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5fcb63240f1e42aaa5e7abda2fc7d
+      internalID: 803676112618339645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_13
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1580
+        width: 606
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95def6ce12ebf4d9287cab1f1a5d27
+      internalID: 58469536973515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1103
+        width: 311
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e9248a6a6b314ca381d350f308e5b
+      internalID: -8576590148788324666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1097
+        width: 326
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c6b021bd8970419d81ad245d979f0
+      internalID: -4813494644221343447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 806
+        width: 118
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96219622383abd94199b9ecf3eb5c0e1
+      internalID: 1973825409981235630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_22
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 806
+        width: 118
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6643075d3abc3a445a6a7c6d85b37ea5
+      internalID: 5796206743134553040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_23
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1018
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2834eb78388e24ba418e258551819b
+      internalID: -8281754734408378273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_24
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1018
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece264438d94644b917af059b81e039
+      internalID: -494467192790150099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_25
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1015
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281888d5a5d2c6c46a63a97f65ab89e8
+      internalID: -6350887892109490782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_26
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1015
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e382530efd434abfdd3c82e7c9ee3
+      internalID: 7373384573490256040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_27
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1012
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7632b7ed2fa918d4db0dfa10c1ce221a
+      internalID: 2812520322896716177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_28
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1018
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c09ec254b210c43a0a61cecb7f16db
+      internalID: 1327755105305241334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_29
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1018
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad23da09f8426478506533d2143eba
+      internalID: -1123637207606178194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_30
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1050
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d25c3d4de94e447bb53a69b836daf0
+      internalID: -8254497934219152633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_31
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1015
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b447d3e958be8d4ca6613d8c93cc629
+      internalID: 2849626120545194459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_32
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1015
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70872c45885f83b4ab44a0d2e4597338
+      internalID: -4962068469294828039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_33
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1012
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5740b33c1dd547aa063917264c17b
+      internalID: -8440017205246539847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_34
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1012
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adead4adfc81bd34889f321714f453db
+      internalID: 6110530207668312271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_35
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1012
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6698f3546f688346b372e812386afc3
+      internalID: 8627669635702857347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_36
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 727
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a598f8f258e548a8452907c392dde
+      internalID: 2658655764838624450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_37
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 724
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b47bc6f04d5284fb71f23850d9034c
+      internalID: -4178176194842487055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalacticBos_3
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1157
+        width: 448
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7617656bddf44797c1deb4ebc2da1
+      internalID: 5979538302164092478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

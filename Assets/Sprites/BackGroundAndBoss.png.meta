@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: ef3418ce9e391e8449eb2465db807ac9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5960380737350517424
+    second: BackGroundAndBoss_0
+  - first:
+      213: 7804353680237168542
+    second: BackGroundAndBoss_1
+  - first:
+      213: -915586279311120538
+    second: BackGroundAndBoss_2
+  - first:
+      213: -8018890167252080304
+    second: BackGroundAndBoss_3
+  - first:
+      213: -1856163513674561050
+    second: BackGroundAndBoss_4
+  - first:
+      213: -8446720604567066661
+    second: BackGroundAndBoss_5
+  - first:
+      213: -8261508681957624966
+    second: BackGroundAndBoss_6
+  - first:
+      213: 9039894971627336251
+    second: BackGroundAndBoss_7
+  - first:
+      213: 3835421651403879161
+    second: BackGroundAndBoss_8
+  - first:
+      213: 1413424255404304371
+    second: BackGroundAndBoss_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackGroundAndBoss_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5249
+        width: 1170
+        height: 20715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f50c2b7d0ef3a42abb722af1fde192
+      internalID: -5960380737350517424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_1
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 22094
+        width: 2896
+        height: 2208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144bb3dce2d78b4e9521fd0ae327116
+      internalID: 7804353680237168542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_2
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 19565
+        width: 2873
+        height: 2136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266fc5c0b5b27bd47bfcec9871fe17b8
+      internalID: -915586279311120538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_3
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 17005
+        width: 2890
+        height: 2192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9498b78ecf4c5445b9dced216dd6655
+      internalID: -8018890167252080304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_4
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 14435
+        width: 2885
+        height: 2146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d563d37bb4a3540b2f220da6295269
+      internalID: -1856163513674561050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_5
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 11500
+        width: 2891
+        height: 2152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2f999db1979ef43844d0ae1bab629b
+      internalID: -8446720604567066661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_6
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 8652
+        width: 2875
+        height: 2142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669c7f0fa77f0164eb13a389d7d1f243
+      internalID: -8261508681957624966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_7
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 5778
+        width: 2878
+        height: 2131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e555f777a1a644c8574e1bd5f8b0e9
+      internalID: 9039894971627336251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_8
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 3236
+        width: 2889
+        height: 2136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec940f7e2ea411e4896833bfb1046e55
+      internalID: 3835421651403879161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGroundAndBoss_9
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 469
+        width: 2914
+        height: 2177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aff621c9fde9154b933dfb2021fa01e
+      internalID: 1413424255404304371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

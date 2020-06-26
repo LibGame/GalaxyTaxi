@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 60cfe1b6d495f9341a5237ea0c14b43a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7836591152534903137
+    second: NecroAnimation_0
+  - first:
+      213: -2637763046995345133
+    second: NecroAnimation_1
+  - first:
+      213: -2260160621035702595
+    second: NecroAnimation_2
+  - first:
+      213: -402037445956439382
+    second: NecroAnimation_3
+  - first:
+      213: 497733677915922527
+    second: NecroAnimation_4
+  - first:
+      213: 4447307904482498192
+    second: NecroAnimation_5
+  - first:
+      213: 2879406398680853401
+    second: NecroAnimation_6
+  - first:
+      213: -7393692333263185806
+    second: NecroAnimation_7
+  - first:
+      213: 6345580432361670125
+    second: NecroAnimation_9
+  - first:
+      213: 6626240968679795050
+    second: NecroAnimation_10
+  - first:
+      213: -4858750009283273568
+    second: NecroAnimation_11
+  - first:
+      213: 5686106131356183275
+    second: NecroAnimation_12
+  - first:
+      213: 969508163552778922
+    second: NecroAnimation_13
+  - first:
+      213: 329921057409687166
+    second: NecroAnimation_14
+  - first:
+      213: 5322721903478801645
+    second: NecroAnimation_15
+  - first:
+      213: 2980498560011405588
+    second: NecroAnimation_16
+  - first:
+      213: 258712562082461797
+    second: NecroAnimation_17
+  - first:
+      213: 8305294688431980002
+    second: NecroAnimation_18
+  - first:
+      213: 8008839973117064663
+    second: NecroAnimation_20
+  - first:
+      213: -368201420132743223
+    second: NecroAnimation_22
+  - first:
+      213: 2815709391620405610
+    second: NecroAnimation_23
+  - first:
+      213: 7235514267297928274
+    second: NecroAnimation_24
+  - first:
+      213: 5911533777052702650
+    second: NecroAnimation_25
+  - first:
+      213: -8279835634731816806
+    second: NecroAnimation_27
+  - first:
+      213: 8901619013552872052
+    second: NecroAnimation_28
+  - first:
+      213: 8443266442614968136
+    second: NecroAnimation_29
+  - first:
+      213: 8595732471323402488
+    second: NecroAnimation_30
+  - first:
+      213: -3982779454496830456
+    second: NecroAnimation_31
+  - first:
+      213: -7492423067051122384
+    second: NecroAnimation_32
+  - first:
+      213: 6445071231261518985
+    second: NecroAnimation_33
+  - first:
+      213: -7231255682988217489
+    second: NecroAnimation_34
+  - first:
+      213: 2868502720223907241
+    second: NecroAnimation_35
+  - first:
+      213: -5963041556584440149
+    second: NecroAnimation_36
+  - first:
+      213: 1488917765357608336
+    second: NecroAnimation_37
+  - first:
+      213: -803173512260453197
+    second: NecroAnimation_38
+  - first:
+      213: 4326083599794571190
+    second: NecroAnimation_39
+  - first:
+      213: -5394779858660991476
+    second: NecroAnimation_40
+  - first:
+      213: -4170653476102445227
+    second: NecroAnimation_41
+  - first:
+      213: -662154736858827221
+    second: NecroAnimation_42
+  - first:
+      213: 272046255522692377
+    second: NecroAnimation_43
+  - first:
+      213: 134308726119942770
+    second: NecroAnimation_44
+  - first:
+      213: 3189520238184189119
+    second: NecroAnimation_45
+  - first:
+      213: 2490117081804076395
+    second: NecroAnimation_46
+  - first:
+      213: 7472804284590084707
+    second: NecroAnimation_47
+  - first:
+      213: -6633169604975537720
+    second: NecroAnimation_48
+  - first:
+      213: 3196764846572014910
+    second: NecroAnimation_49
+  - first:
+      213: 5228727307758642498
+    second: NecroAnimation_19
+  - first:
+      213: 9125333871022788878
+    second: NecroAnimation_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NecroAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5548
+        width: 155
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b22b37ea23d424bbfa67c1c7fb5984
+      internalID: -7836591152534903137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 5296
+        width: 160
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b6f10e86fe514ab6cca6d15c8862e
+      internalID: -2637763046995345133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4968
+        width: 389
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5299e858652da49992844888a3375d
+      internalID: -2260160621035702595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 5101
+        width: 413
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1449120a381d50c4f8ea1516e477e948
+      internalID: -402037445956439382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5062
+        width: 155
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67419b84720f7745946ea8985947c53
+      internalID: 497733677915922527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 4832
+        width: 397
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab1927ad7bb2d42bad4c1011a91fb7
+      internalID: 4447307904482498192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4834
+        width: 155
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783e7c95c77e9ef459e83792c00f29e9
+      internalID: 2879406398680853401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4476
+        width: 389
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5e1da909267a43a325d1bb7e91569
+      internalID: -7393692333263185806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 4576
+        width: 406
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456bb4d8731ed0f4dbe7a4fdb7d06621
+      internalID: 6345580432361670125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4629
+        width: 155
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3035cf08daf143a945d011eeaeb26
+      internalID: 6626240968679795050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4426
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856ed88323d7fb4b9413941a24aa99d
+      internalID: -4858750009283273568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 4310
+        width: 395
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd1379702971e24d99a902d2b8e036c
+      internalID: 5686106131356183275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4249
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89cc0b9e06ca3645941324fc5f46721
+      internalID: 969508163552778922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4329
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88122afd2f5b9204b88e5e43e9790675
+      internalID: 329921057409687166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4013
+        width: 389
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0806eda141ad8d488c0ea3c17d02675
+      internalID: 5322721903478801645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 4296
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4098d3d0b1464de47bfc768ff7c899cc
+      internalID: 2980498560011405588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4013
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac270f363e6240348ad64134c70533cf
+      internalID: 258712562082461797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 4043
+        width: 395
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15efa4ac108b5704eb541c5ff6e6fd61
+      internalID: 8305294688431980002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3546
+        width: 389
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3530f25672c05f4f9afa0858f348e66
+      internalID: 8008839973117064663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3638
+        width: 155
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264636ea30685a54aa349ef022093c6d
+      internalID: -368201420132743223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3560
+        width: 361
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6634cd48ecb05174fbe2246db3488f53
+      internalID: 2815709391620405610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3435
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628eafa90acac384dab1d6eb204986fd
+      internalID: 7235514267297928274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3060
+        width: 391
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf26af84deb6254ba8807f8c55ccbf7
+      internalID: 5911533777052702650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3016
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098955324b635fd4dbf2b39a7b557662
+      internalID: -8279835634731816806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2599
+        width: 391
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29de6e789bd8d44bb8c165297a600e
+      internalID: 8901619013552872052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2832
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac6f27b799e06b4cb013f134365aeaa
+      internalID: 8443266442614968136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2924
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be3ddf90c187624d8c8757d49f23063
+      internalID: 8595732471323402488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2660
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaae4a818b38784a82b3d9b417b08fb
+      internalID: -3982779454496830456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2294
+        width: 314
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f474f7946ed44485dd36c3eb39b17
+      internalID: -7492423067051122384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2485
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9368d8173a054ca3bc4de19cc1ab0
+      internalID: 6445071231261518985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2196
+        width: 364
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff131eced09784c82ebd959603cecf
+      internalID: -7231255682988217489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2316
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147373feedb68f94d88b951b7db011a1
+      internalID: 2868502720223907241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2149
+        width: 150
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f55b8c8fa28a4cbc3cfb2b5f71421
+      internalID: -5963041556584440149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1763
+        width: 300
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61884d855e53c1745adc44d39a050719
+      internalID: 1488917765357608336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1980
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790f94bf0d9b6b41880b34fcacd549b
+      internalID: -803173512260453197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1813
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e24451dc7d42648b1a62be01c17d51
+      internalID: 4326083599794571190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1644
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3b3339ee8c084192702452086c2d0
+      internalID: -5394779858660991476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1288
+        width: 300
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f182638c3f68a146835a39f1f13e367
+      internalID: -4170653476102445227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1227
+        width: 286
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61fd1e824d61d4aa930ec4b8f64f54
+      internalID: -662154736858827221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1491
+        width: 150
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa342501a7fabb469bf7ab05ba95b88
+      internalID: 272046255522692377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1011
+        width: 95
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bf1a6f6ea05b44da4b05742cdec4a9
+      internalID: 134308726119942770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1297
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5924cc34a774cd48bdaabc321199595
+      internalID: 3189520238184189119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1072
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa395033cf4fc7547a992b33d3c1e355
+      internalID: 2490117081804076395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 728
+        width: 286
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da434db959d68c4ea57ff83d5dbb973
+      internalID: 7472804284590084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 450
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55252889d95fcac4496408ac148f9cf0
+      internalID: -6633169604975537720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 94
+        width: 286
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948f8297cc2b03e428a0e4219d881b1a
+      internalID: 3196764846572014910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3841
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3284321fd3c1a546bf016460ebf1b9a
+      internalID: 5228727307758642498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NecroAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 3790
+        width: 406
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f409d45b9a399564c8748a06d7dac1fd
+      internalID: 9125333871022788878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

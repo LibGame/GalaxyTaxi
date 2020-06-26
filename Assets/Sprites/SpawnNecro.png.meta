@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: 035ba88c476c3e141865e582c69e5661
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1221703072688232838
+    second: SpawnNecro_0
+  - first:
+      213: 5736958456961433949
+    second: SpawnNecro_1
+  - first:
+      213: 8643347372723746158
+    second: SpawnNecro_2
+  - first:
+      213: 235470965055966897
+    second: SpawnNecro_3
+  - first:
+      213: 4716604421411343349
+    second: SpawnNecro_4
+  - first:
+      213: -4544416222478630911
+    second: SpawnNecro_5
+  - first:
+      213: -5026815675050154589
+    second: SpawnNecro_6
+  - first:
+      213: 7994970127589149125
+    second: SpawnNecro_7
+  - first:
+      213: -6421928436916031286
+    second: SpawnNecro_8
+  - first:
+      213: 4007893056214334908
+    second: SpawnNecro_9
+  - first:
+      213: 494480287845942305
+    second: SpawnNecro_10
+  - first:
+      213: -8334605628350185795
+    second: SpawnNecro_11
+  - first:
+      213: 4695258843266197259
+    second: SpawnNecro_12
+  - first:
+      213: 6913474163558092547
+    second: SpawnNecro_13
+  - first:
+      213: -3993541723557704090
+    second: SpawnNecro_14
+  - first:
+      213: -7170382239935316251
+    second: SpawnNecro_15
+  - first:
+      213: 6897811576050783465
+    second: SpawnNecro_16
+  - first:
+      213: -7110084335856314692
+    second: SpawnNecro_17
+  - first:
+      213: 7996628761334226265
+    second: SpawnNecro_18
+  - first:
+      213: 717162019669571071
+    second: SpawnNecro_19
+  - first:
+      213: 8986350073391097371
+    second: SpawnNecro_20
+  - first:
+      213: -196230160662711239
+    second: SpawnNecro_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpawnNecro_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 552
+        width: 339
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa2d6cb7243004291edd1795250bfc
+      internalID: -1221703072688232838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_1
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 509
+        width: 369
+        height: 1566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.23498967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b0af863ac4e7e4ab7e2bff178db94a
+      internalID: 5736958456961433949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_2
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 564
+        width: 386
+        height: 1511
+      alignment: 9
+      pivot: {x: 0.4799036, y: 0.2048083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf378fe37c2bfd2479169a69b0a5c0d4
+      internalID: 8643347372723746158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_3
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 552
+        width: 254
+        height: 1523
+      alignment: 9
+      pivot: {x: 0.545811, y: 0.21986742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6580c7614d228f4da231c44f69d50c4
+      internalID: 235470965055966897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_4
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 547
+        width: 334
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2ac54036f8fb478baf0645f24e9d5
+      internalID: 4716604421411343349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_5
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 552
+        width: 337
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e559304acea14294d283430a4c721
+      internalID: -4544416222478630911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_6
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 552
+        width: 352
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901d442f9b9fa347883e68ea4280fe5
+      internalID: -5026815675050154589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_7
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 539
+        width: 290
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4ef701e9b2f41479453f19a836d2fc
+      internalID: 7994970127589149125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_8
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 524
+        width: 300
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc99d02d24263ad4690e337d0f83bf39
+      internalID: -6421928436916031286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_9
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 537
+        width: 294
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a5799ad2695d419b44df9e363f6fb
+      internalID: 4007893056214334908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_10
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 552
+        width: 317
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2183b5e62ff8c4e4bb3e66b732218c71
+      internalID: 494480287845942305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_11
+      rect:
+        serializedVersion: 2
+        x: 6136
+        y: 559
+        width: 305
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32dcad8a021f65449f2ae7d138c027b
+      internalID: -8334605628350185795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_12
+      rect:
+        serializedVersion: 2
+        x: 6745
+        y: 542
+        width: 379
+        height: 658
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72246edcc5d1cd34a92bca1c26143109
+      internalID: 4695258843266197259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_13
+      rect:
+        serializedVersion: 2
+        x: 7218
+        y: 532
+        width: 522
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6ced7792174844b7bce83edc8bba7
+      internalID: 6913474163558092547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_14
+      rect:
+        serializedVersion: 2
+        x: 7949
+        y: 554
+        width: 760
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996c3c38072806458bdaaf35f89a25d
+      internalID: -3993541723557704090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_15
+      rect:
+        serializedVersion: 2
+        x: 8921
+        y: 537
+        width: 988
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71155d213242c4595992c760d0bf0f
+      internalID: -7170382239935316251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_16
+      rect:
+        serializedVersion: 2
+        x: 10198
+        y: 495
+        width: 990
+        height: 827
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b5b520b866c54ea4e67141f3a9749
+      internalID: 6897811576050783465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_17
+      rect:
+        serializedVersion: 2
+        x: 11377
+        y: 490
+        width: 947
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6981ba04cc89fe4a90ba4fdbd53f111
+      internalID: -7110084335856314692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_18
+      rect:
+        serializedVersion: 2
+        x: 12643
+        y: 440
+        width: 1100
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e41c5a6a8e7f4e9419f9929ab180a
+      internalID: 7996628761334226265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_19
+      rect:
+        serializedVersion: 2
+        x: 13870
+        y: 435
+        width: 1100
+        height: 882
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959c65e718c9eb640b92e18f671bd269
+      internalID: 717162019669571071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_20
+      rect:
+        serializedVersion: 2
+        x: 15324
+        y: 427
+        width: 1044
+        height: 903
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142db7d1a71cd834d9f78d0848b04ac0
+      internalID: 8986350073391097371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpawnNecro_21
+      rect:
+        serializedVersion: 2
+        x: 16705
+        y: 440
+        width: 997
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15662b21b30344c85b58c27eecde47
+      internalID: -196230160662711239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

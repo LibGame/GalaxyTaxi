@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: f9f9af7d6b26a8847b72e55f6f3d19e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5053528889740177221
+    second: AnimationOfIdleBos_0
+  - first:
+      213: -6495731752705968159
+    second: AnimationOfIdleBos_1
+  - first:
+      213: -5898101919368947607
+    second: AnimationOfIdleBos_2
+  - first:
+      213: -5239042071378997974
+    second: AnimationOfIdleBos_3
+  - first:
+      213: -5909248820058421813
+    second: AnimationOfIdleBos_4
+  - first:
+      213: 474267100449564729
+    second: AnimationOfIdleBos_5
+  - first:
+      213: -6521384706171441534
+    second: AnimationOfIdleBos_6
+  - first:
+      213: -1624217046190882684
+    second: AnimationOfIdleBos_7
+  - first:
+      213: -6596897702060449009
+    second: AnimationOfIdleBos_8
+  - first:
+      213: 4844576880522965927
+    second: AnimationOfIdleBos_9
+  - first:
+      213: 5659459476471976223
+    second: AnimationOfIdleBos_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6376
+        width: 418
+        height: 523
+      alignment: 9
+      pivot: {x: 0.50724286, y: 0.5347324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abdf0f858e5e5b4bb66fc56a15d1f13
+      internalID: 5053528889740177221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5697
+        width: 490
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5046198, y: 0.58849365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2acb3de11ceb7946a79b180193d729c
+      internalID: -6495731752705968159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5034
+        width: 463
+        height: 554
+      alignment: 9
+      pivot: {x: 0.5121717, y: 0.57284117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcba37e200f2efe49a5ec3b59345833f
+      internalID: -5898101919368947607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4388
+        width: 447
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5111039, y: 0.56900275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd81b69322fe643ad64aadd015a8a1
+      internalID: -5239042071378997974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3827
+        width: 428
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5206043, y: 0.5735863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746425d74787754b93e967ec1cf4687
+      internalID: -5909248820058421813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3225
+        width: 425
+        height: 562
+      alignment: 9
+      pivot: {x: 0.54092675, y: 0.5959399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8827003f69f949a40ce26587ba968
+      internalID: 474267100449564729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2613
+        width: 387
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5164759, y: 0.5721653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd1ca71c777ea545a11384f9b95e9b2
+      internalID: -6521384706171441534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1999
+        width: 411
+        height: 539
+      alignment: 9
+      pivot: {x: 0.5114653, y: 0.5706092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decefa8346d75854fb45ab94b2666149
+      internalID: -1624217046190882684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1401
+        width: 425
+        height: 530
+      alignment: 9
+      pivot: {x: 0.5115161, y: 0.57036936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860cc858ce8bd37459f47967c65b27b7
+      internalID: -6596897702060449009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 745
+        width: 424
+        height: 546
+      alignment: 9
+      pivot: {x: 0.48947063, y: 0.57139504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecafdba7121419459ce40563e85a8c3
+      internalID: 4844576880522965927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AnimationOfIdleBos_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 112
+        width: 399
+        height: 551
+      alignment: 9
+      pivot: {x: 0.52906114, y: 0.5837744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6dc33d0ce713645b39ccf2dfd48f73
+      internalID: 5659459476471976223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

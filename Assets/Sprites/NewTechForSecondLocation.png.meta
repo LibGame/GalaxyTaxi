@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: fe0dca6a0c7995f44acfabc9b470a2d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3383501078085471184
+    second: NewTechForSecondLocation_0
+  - first:
+      213: -521679914890688301
+    second: NewTechForSecondLocation_1
+  - first:
+      213: -2948329911498843275
+    second: NewTechForSecondLocation_2
+  - first:
+      213: 8385423371689946295
+    second: NewTechForSecondLocation_3
+  - first:
+      213: 8331047905189376158
+    second: NewTechForSecondLocation_4
+  - first:
+      213: 8092528482521464373
+    second: NewTechForSecondLocation_5
+  - first:
+      213: 1011468295260432322
+    second: NewTechForSecondLocation_6
+  - first:
+      213: 408561923305504041
+    second: NewTechForSecondLocation_7
+  - first:
+      213: 862463854859113987
+    second: NewTechForSecondLocation_8
+  - first:
+      213: -2141026620078474738
+    second: NewTechForSecondLocation_9
+  - first:
+      213: 7401973932406168397
+    second: NewTechForSecondLocation_10
+  - first:
+      213: 9140724489466376077
+    second: NewTechForSecondLocation_11
+  - first:
+      213: -5430477125027467402
+    second: NewTechForSecondLocation_12
+  - first:
+      213: -2732001966752597659
+    second: NewTechForSecondLocation_13
+  - first:
+      213: -2678577584785881049
+    second: NewTechForSecondLocation_14
+  - first:
+      213: -3439150786490211368
+    second: NewTechForSecondLocation_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_0
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1011
+        width: 350
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27de0ddc29f2530468c1d9ce96130036
+      internalID: -3383501078085471184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_1
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1013
+        width: 346
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27bd817f8ee9c5408857054bfae1e59
+      internalID: -521679914890688301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_2
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1011
+        width: 359
+        height: 353
+      alignment: 9
+      pivot: {x: 0.48280507, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ea99fcdd2db64faf7da0d2972ecff
+      internalID: -2948329911498843275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_3
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1359
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6d4a39bcd7ee488a39495c956a881
+      internalID: 8385423371689946295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1048
+        width: 275
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6856ddc4d6dd84b8d942f3ed5f4038
+      internalID: 8331047905189376158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1046
+        width: 284
+        height: 281
+      alignment: 9
+      pivot: {x: 0.49275488, y: 0.4926775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c00afad74a911459c8ce826c2392b3
+      internalID: 8092528482521464373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_6
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1011
+        width: 346
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad6bbbb14b7654a816f2d2a8672d83
+      internalID: 1011468295260432322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 791
+        width: 34
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4693011, y: 0.880788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e4f0dbeb9502949b782fa739a8a04a
+      internalID: 408561923305504041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_8
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 438
+        width: 323
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039accdc1ad43fc46bc47dc56e060841
+      internalID: 862463854859113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_9
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 468
+        width: 347
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8effb7477d6d4e8f7f94110cc5c4d
+      internalID: -2141026620078474738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 397
+        width: 101
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4999994, y: 0.8417774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731abc0a935db84bb9bd9e2f25c79d2
+      internalID: 7401973932406168397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 450
+        width: 99
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6171235042001e4797fbcbbdc796bf9
+      internalID: 9140724489466376077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 471
+        width: 102
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08a204778fe144e87ab58927179ab7
+      internalID: -5430477125027467402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 521
+        width: 101
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.84}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928ac9a87c97524cbb9c46ea883ccd3
+      internalID: -2732001966752597659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_14
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 407
+        width: 93
+        height: 130
+      alignment: 9
+      pivot: {x: 0.4227623, y: 0.74864644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde785b2631bac42b6d323a71d71864
+      internalID: -2678577584785881049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewTechForSecondLocation_15
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 0
+        width: 223
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6254461f6ebab44581e6713eca7c12b
+      internalID: -3439150786490211368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
